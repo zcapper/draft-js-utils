@@ -1,5 +1,5 @@
 {
-  "name": "draft-js-import-markdown",
+  "name": "draft-js-import-markdown-zdc",
   "version": "1.4.0",
   "description": "DraftJS: Import Markdown to ContentState",
   "main": "lib/main.js",
@@ -15,7 +15,7 @@
     "build": "yarn build:cjs && yarn build:esm"
   },
   "dependencies": {
-    "draft-js-import-element": "^1.4.0",
+    "draft-js-import-element-zdc": "^1.4.0",
     "synthetic-dom": "^1.4.0"
   },
   "peerDependencies": {

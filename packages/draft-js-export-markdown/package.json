@@ -1,5 +1,5 @@
 {
-  "name": "draft-js-export-markdown",
+  "name": "draft-js-export-markdown-zdc",
   "version": "1.4.0",
   "description": "DraftJS: Export ContentState to Markdown",
   "main": "lib/main.js",

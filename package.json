@@ -1,5 +1,5 @@
 {
-  "name": "draft-js-utils-monorepo",
+  "name": "draft-js-utils-monorepo-zdc",
   "private": true,
   "workspaces": [
     "packages/*"

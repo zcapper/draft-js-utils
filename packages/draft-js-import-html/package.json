@@ -1,6 +1,6 @@
 {
-  "name": "draft-js-import-html",
-  "version": "1.4.1",
+  "name": "draft-js-import-html-zdc",
+  "version": "1.4.2",
   "description": "DraftJS: Import HTML to ContentState",
   "main": "lib/main.js",
   "module": "esm/main.js",
@@ -17,7 +17,7 @@
     "build": "yarn build:cjs && yarn build:esm"
   },
   "dependencies": {
-    "draft-js-import-element": "^1.4.0"
+    "draft-js-import-element-zdc": "^1.4.0"
   },
   "peerDependencies": {
     "draft-js": ">=0.10.0",

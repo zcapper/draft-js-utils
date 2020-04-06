@@ -1,6 +1,5 @@
 {
-  "name": "draft-js-utils",
-  "version": "1.4.0",
+  "name": "draft-js-utils-zdc",
   "description": "Collection of utilities for DraftJS",
   "main": "lib/main.js",
   "module": "esm/main.js",

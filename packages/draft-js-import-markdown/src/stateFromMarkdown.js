@@ -1,10 +1,10 @@
 // @flow
 
 import MarkdownParser from './MarkdownParser';
-import {stateFromElement} from 'draft-js-import-element';
+import {stateFromElement} from 'draft-js-import-element-zdc';
 
 import type {ContentState} from 'draft-js';
-import type {ElementStyles, CustomBlockFn, CustomInlineFn} from 'draft-js-import-element';
+import type {ElementStyles, CustomBlockFn, CustomInlineFn} from 'draft-js-import-element-zdc';
 
 type Options = {
   elementStyles?: ElementStyles;

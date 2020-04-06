@@ -6,7 +6,7 @@ It was extracted from [React-RTE](https://react-rte.org) and placed into a separ
 
 ## Installation
 
-    npm install --save draft-js-export-markdown
+    npm install draft-js-export-markdown-zdc
 
 This project is still under development. If you want to help out, please open an issue to discuss or join us on [Slack](https://draftjs.slack.com/).
 
